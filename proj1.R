@@ -23,7 +23,7 @@ solar_installed <- data_tidy_energy_use$solar_installed
 day_of_week <- data_tidy_energy_use$day_of_week
 holiday <- data_tidy_energy_use$holiday
 
-
+#joseph my group partner
 
 # Section 2
 # 1.

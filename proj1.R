@@ -46,7 +46,13 @@ numerical_data <- data_tidy_energy_use[sapply(data_tidy_energy_use, is.numeric)]
 pairs(numerical_data)
 
 
-
+# Section 3
+# 1.
 lm1 = lm(consumption_kwh~outside_temperature,data=data_tidy_energy_use)
 summary(lm1)
+
+
+# Section 4
+
+# Section 5
 

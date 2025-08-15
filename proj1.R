@@ -8,6 +8,7 @@ if (!requireNamespace("remotes", quietly = TRUE)) {
 remotes::install_github("MiguelRodo/DataTidyRodoSTA2005S")
 data("data_tidy_energy_use", package = "DataTidyRodoSTA2005S")
 
+#hello my firend
 
 
 #set out all variables so we can use them without the dollar
